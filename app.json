@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "NumberGuess",
+    "slug": "numberguess",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      
+    ],
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/sk.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier" : "com.shreyashkarandikar.numberguess",
+      "buildNumber" : "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package" : "com.shreyashkarandikar.numberguess",
+      "versionCode" : 1,
+      "adaptiveIcon": {
+      "foregroundImage": "./assets/sk.png",
+      "backgroundColor": "#ffffff"
+    }
+    }
+  }
+}
