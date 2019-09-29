@@ -1,5 +1,5 @@
 # NumberGuess
-find .apk file to download and try !
+Download apk from here http://bit.ly/numbergues
 
 This is basic game created using React-Native. 
 First you have to choose any number. 
