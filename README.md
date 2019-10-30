@@ -4,7 +4,7 @@ Download .apk from here http://bit.ly/numbergues
 <h4>This is game developed in React-Native. 
 First you have to choose any number. 
 <br>
-<img src = "Images/ss1.jpg" width  = "260" height="540" border ="25">
+<img src = "Images/ss1.jpg" width  = "260" height="540" >
 <br>
 <br>
 Computer then tries to guess the number by making random number generations<br>
